@@ -5,3 +5,7 @@ Nick Carraway -
 Daisy Buchanan - 
 
 Thomas "Tom"
+
+Myrtile Wilson
+
+George Wilson
